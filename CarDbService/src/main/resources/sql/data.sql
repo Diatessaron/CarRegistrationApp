@@ -1,0 +1,1 @@
+INSERT INTO registry (brand, color) VALUES ('VW', 'White');
